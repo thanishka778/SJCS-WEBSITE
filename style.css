@@ -1,0 +1,81 @@
+#main{
+    font-variant: small-caps;
+    color: midnightblue;
+    background-color: cyan;
+    text-align: center;
+    font-size: 45px;
+    font-weight: bold;
+    font-family:cursive
+}
+#s{
+    width:4000px;
+    height:400px;
+}
+body{
+    background-image: url(https://images.template.net/wp-content/uploads/2014/08/Food.png);
+    text-align: center;
+
+        }
+
+.links {
+  
+    display: inline;
+    color: darkblue;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.my_nav_bar{
+    background-color: cornflowerblue;
+    position: sticky;
+    top: 0;
+    z-index: 999999;
+}
+.kinks {
+    
+    display: inline;
+    color:darkblue;
+    padding-top: 5px;
+    padding-left: 302px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+.dropdown{
+    margin-top: 10px;
+    background-color: black;
+}
+.bn{
+  background-color: cornflowerblue; 
+    color:darkblue;
+}
+#h{
+    font-variant: small-caps;
+    color: deeppink;
+    font-size: 85px;
+}
+#staff{
+  width: 550px;
+    height: 350px;
+}
+h4{
+    text-align: left;
+}
+#rooms{
+    width:300px;
+    height:250px;
+     margin-top: 30px;
+    border-width: medium;
+    border-color: brown;
+    border-style: double
+}
+#mm{
+    text-align: center;
+}
+.well{
+    
+}
